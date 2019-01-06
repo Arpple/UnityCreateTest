@@ -18,6 +18,6 @@ when I want to create a test for a script located in deep nested directory it is
 - and also *select in inspector* for you > you can click open to start writing test
 
 # More Todo...
-- add ability to edit `SCRIPT_ROOT`, `TEST_ROOT`
-- custome template
+- read `SCRIPT_ROOT`, `TEST_ROOT` from some kind of config
+- custom template
 - set selection of asset window to the created file (I tried but can't find the way to do it)
